@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Web3 , Blockchain, Solidity, Full Stack Web Development
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Hyperledger,Solidity
 
 
 <!---
